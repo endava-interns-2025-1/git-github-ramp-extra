@@ -4,4 +4,4 @@
 
 SongFacts in the year:
 
-- January: [Mr- Brightside](../song/jan/mr_brightside.md)
+- January: [Mr- Brightside](../song/feb/mr_brightside.md)
